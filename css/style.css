@@ -1,0 +1,21 @@
+a{
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    color: darkblue;
+    
+}
+
+#ativate{
+    background-color: teal;
+    color: orange;
+}
+h1{
+    background-color: black;
+    color: orange;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
